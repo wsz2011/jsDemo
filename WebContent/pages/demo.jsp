@@ -21,5 +21,6 @@ var test = function(){
 <body>
 <h1 id="h1"></h1>
 <h2 id="h2"></h2>
+<h2 id="h2">test gitee</h2>
 </body>
 </html>
